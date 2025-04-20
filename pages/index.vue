@@ -263,8 +263,8 @@ const closeModal = () => {
 
       <div class="flex flex-col gap-12 md:flex-row md:justify-between md:gap-6">
         <div class="flex flex-col md:flex-row md:gap-4 md:order-2 ">
-          <NuxtLink to="/t" class="text-sm py-2">Terms of Service</NuxtLink>
-          <NuxtLink to="/about" class="text-sm py-2">Privacy Policy</NuxtLink>
+          <NuxtLink to="/terms-of-service" class="text-sm py-2">Terms of Service</NuxtLink>
+          <NuxtLink to="/private-policy" class="text-sm py-2">Privacy Policy</NuxtLink>
           <NuxtLink to="/contact-us" class="text-sm py-2">Contact Us</NuxtLink>
         </div>
 
