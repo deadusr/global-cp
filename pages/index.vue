@@ -40,8 +40,8 @@ const closeModal = () => {
             Unlock the Power of <span class="text-slate-900 font-bold">GPU Computing</span> Today
           </h1>
           <p class="text-base md:text-lg md:w-[450px] text-white">
-            Experience unparalleled performance with our GPU computing servers tailored for cryptocurrency mining, AI
-            training, and rendering. Join us to elevate your projects with cutting-edge technology and exceptional
+            Experience unparalleled performance with our GPU computing servers tailored for digital actives computing,
+            AI training, and rendering. Join us to elevate your projects with cutting-edge technology and exceptional
             support.
           </p>
           <button @click="openModal"
@@ -58,15 +58,17 @@ const closeModal = () => {
     <section class=" bg-white/5">
       <div
         class="container text-slate-900 mx-auto flex flex-col gap-12 items-center py-16 md:py-20 md:gap-16 lg:gap-20 lg:py-28">
-        <h2 class="text-3xl md:text-4xl text-center font-mono md:max-w-[750px]">Unlock the Power of GPU Computing for
-          Your Needs</h2>
+        <h2 class="text-3xl md:text-4xl text-center font-mono md:max-w-[750px]">
+          Unlock the Power of GPU Computing for Your Needs
+        </h2>
 
         <div class="flex flex-col gap-12 md:flex-row md:gap-4 lg:justify-between lg:w-full">
           <div class="flex flex-col items-center gap-6 md:gap-8 xl:w-[400px]">
             <icon class=" fill-slate-900" />
-            <h4 class="font-mono text-xl lg:text-2xl text-center">Maximize Your Profits with Cryptocurrency Mining
+            <h4 class="font-mono text-xl lg:text-2xl text-center">Maximize Your Profits with Cloud Digital Actives
               Solutions</h4>
-            <p class="text-base text-center">Leverage our high-performance GPU servers to mine cryptocurrencies
+            <p class="text-base text-center">Leverage our high-performance GPU servers to compute digital actives
+              efficiently.
               efficiently.</p>
           </div>
 
@@ -98,12 +100,11 @@ const closeModal = () => {
             <span class="text-white text-base ">Power</span>
             <h2 class="font-mono text-4xl md:text-5xl lg:w-[500px]">Unleash Your Potential with GPU Servers</h2>
           </div>
-          <p class="text-base md:text-lg">Our GPU computing servers are designed to meet your needs, whether you're
-            mining
-            cryptocurrencies, training AI models, or rendering high-quality graphics. With cutting-edge technology and
-            scalable solutions, we empower you to achieve your goals efficiently. Experience unparalleled performance
-            and
-            reliability with our dedicated services.
+          <p class="text-base md:text-lg">
+            Our GPU computing servers are designed to meet your needs, whether you're computing digital actives,
+            training AI models, or rendering high-quality graphics. With cutting-edge technology and scalable solutions,
+            we empower you to achieve your goals efficiently. Experience unparalleled performance and reliability with
+            our dedicated services.
           </p>
         </div>
 
@@ -111,8 +112,8 @@ const closeModal = () => {
         <div class="flex flex-col gap-12 md:flex-row md:gap-4 w-full lg:justify-between">
           <div class="flex flex-col gap-5 md:gap-6 xl:w-[400px]">
             <icon class="fill-slate-900" />
-            <h3 class="font-mono text-2xl ">Transform Your Creative Projects with GPU Rendering Power</h3>
-            <p class="text-base">Maximize your mining efficiency with our powerful servers.</p>
+            <h3 class="font-mono text-2xl ">Digital Actives Computing Made Easy and Profitable</h3>
+            <p class="text-base">Maximize your digital actives computing efficiency with our powerful servers.</p>
           </div>
 
           <div class="flex flex-col gap-5 md:gap-6 xl:w-[400px]">
@@ -144,8 +145,8 @@ const closeModal = () => {
               <span class="text-white text-base ">Empower</span>
               <h2 class="font-mono text-4xl">Unlock the Power of GPU Computing</h2>
               <p class="text-base">
-                Experience unparalleled performance and flexibility with our GPU computing servers. Perfect
-                for cryptocurrency mining, AI training, and rendering tasks.
+                Experience unparalleled performance and flexibility with our GPU computing servers. Perfect for digital
+                actives computing, AI training, and rendering tasks.
               </p>
             </div>
 
@@ -173,7 +174,8 @@ const closeModal = () => {
             </button>
           </div>
 
-          <img class="object-cover w-full rounded-[40px] md:max-w-[600px] lg:w-[500px] xl:w-[600px]" src="/image-server.jpg" />
+          <img class="object-cover w-full rounded-[40px] md:max-w-[600px] lg:w-[500px] xl:w-[600px]"
+            src="/image-server.jpg" />
         </div>
       </div>
 
@@ -190,7 +192,7 @@ const closeModal = () => {
 
           <div class="flex flex-col gap-6 lg:gap-8">
             <p class="text-base md:text-lg">
-              Our GPU servers deliver unmatched speed and reliability for cryptocurrency mining, AI training, and
+              Our GPU servers deliver unmatched speed and reliability for digital actives computing, AI training, and
               rendering tasks. Experience seamless performance that scales with your needs.
             </p>
 
@@ -217,7 +219,8 @@ const closeModal = () => {
 
     </section>
 
-    <section class="container mx-auto text-white flex flex-col gap-12 py-16 lg:gap-20 lg:py-28 md:flex-row xl:justify-between">
+    <section
+      class="container mx-auto text-white flex flex-col gap-12 py-16 lg:gap-20 lg:py-28 md:flex-row xl:justify-between">
       <div class="flex flex-col gap-6 md:gap-8 xl:max-w-[600px]">
         <h2 class="font-mono text-4xl md:text-5xl">Unlock Your Computing Potential</h2>
         <p class="text-base md:text-lg">Contact us today to explore how our GPU servers can elevate your projects and
@@ -229,7 +232,8 @@ const closeModal = () => {
         </button>
       </div>
 
-      <img class="object-cover w-full rounded-[40px] md:w-[350px] lg:w-[500px] xl:w-[600px] max-w-[600px]" src="/image-2.png" />
+      <img class="object-cover w-full rounded-[40px] md:w-[350px] lg:w-[500px] xl:w-[600px] max-w-[600px]"
+        src="/image-2.png" />
     </section>
 
     <footer class="container mx-auto text-white flex flex-col gap-12 py-16">
@@ -242,7 +246,8 @@ const closeModal = () => {
 
         <div class="flex flex-col gap-3 md:w-[400px]">
           <div class="flex flex-col gap-3  lg:flex-row lg:items-center">
-            <input type="email" class="border w-full border-white rounded-xl text-base px-3 py-2 bg-transparent outline-none"
+            <input type="email"
+              class="border w-full border-white rounded-xl text-base px-3 py-2 bg-transparent outline-none"
               placeholder="Your email here" />
 
             <button
